@@ -6,12 +6,15 @@ Software leader turned founder turned AI builder. 20+ years shipping systems, in
 
 **Before:** Founded [RCLUB](https://rclub.ca) (CEO/CTO, 7+ years). Ran infrastructure for luxury hotel brands at AccorHotels and FRHI. Started out at Microsoft and worked my way up through broadcast engineering at CHUM Television.
 
-## What I'm building
+## What I'm working on
 
-- 🤖 Enterprise AI tooling (MCP servers, automation, agentic workflows)
-- 🔧 Developer productivity tools
-- 📅 [ical-merger](https://github.com/adamwestland/ical-merger) - Cloudflare Worker to merge iCal feeds into one subscribable endpoint
-- 💰 [ynab-mcp](https://github.com/adamwestland/ynab-mcp) - MCP server for YNAB budgeting API
+Building the AI layer for a large-scale home building platform — MCP servers, agentic workflows, test automation, and tooling that plugs Claude into enterprise systems with millions of records.
+
+- **Enterprise AI infrastructure** — MCP servers connecting Claude to CRM APIs, ERPs, and internal tools; Claude Code plugins for change management and Jira; Shape-Up pitch workflows with AI review
+- **Data-driven product discovery** — Persona clustering pipeline analyzing 1M+ user activity logs with scikit-learn and Claude to identify roles and pain points
+- **Test automation** — Hybrid Playwright + PHPUnit infrastructure on self-hosted runners for a multi-module PHP platform with a 1TB+ production database
+- [ical-merger](https://github.com/adamwestland/ical-merger) — Cloudflare Worker that merges iCal feeds into one subscribable endpoint
+- [ynab-mcp](https://github.com/adamwestland/ynab-mcp) — MCP server for the YNAB budgeting API
 
 ## Links
 
