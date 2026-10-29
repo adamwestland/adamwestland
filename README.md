@@ -2,19 +2,22 @@
 
 Software leader turned founder turned AI builder. 20+ years shipping systems, infrastructure, and products across hospitality, media, and real estate.
 
-**Now:** AI consulting for [Great Gulf Group](https://www.greatgulfgroup.com) through Westland Tech, building tools that make enterprise software less painful.
+**Now:** AI consulting through Westland Tech. I help engineering teams rebuild how they ship software around AI agents: specs before code, automated review and testing, and humans signing off at the gates.
 
-**Before:** Founded [RCLUB](https://rclub.co) (CEO/CTO, 7+ years). Ran infrastructure for luxury hotel brands at AccorHotels and FRHI. Started out at Microsoft and worked my way up through broadcast engineering at CHUM Television.
+**Before:** Founded [RCLUB](https://rclub.co) (CEO/CTO, 7+ years). Ran infrastructure for luxury hotel brands at AccorHotels and FRHI. Earlier: IT infrastructure at CHUM Television, Opalis Software and Microsoft.
 
-## What I'm working on
+## What I work on
 
-Building the AI layer for a large-scale home building platform — MCP servers, agentic workflows, test automation, and tooling that plugs Claude into enterprise systems.
+- **AI-native software delivery**: redesigning the SDLC so each stage, from idea to release, produces something the next stage (person or agent) can pick up
+- **Guardrails and review**: AI code review, automated QA and approval gates, so teams move faster and someone is still accountable for every release
+- **Connecting AI to the business**: giving agents safe, audited access to the systems a company already runs on
+- **Enablement**: getting teams working with Claude, Codex and ChatGPT every day
 
-- **Enterprise AI infrastructure** — MCP servers connecting Claude to CRM APIs, ERPs, and internal tools; Claude Code plugins for change management and Jira; Shape-Up pitch workflows with AI review
-- **Data-driven product discovery** — Persona clustering pipeline over product activity logs with scikit-learn and Claude to identify roles and pain points
-- **Test automation** — Hybrid Playwright + PHPUnit infrastructure on self-hosted runners for a multi-module PHP platform
-- [ical-merge-worker](https://github.com/adamwestland/ical-merge-worker) — Cloudflare Worker that merges iCal feeds into one subscribable endpoint
+## Open source
+
 - [ynab-mcp-server](https://github.com/adamwestland/ynab-mcp-server) — MCP server for the YNAB budgeting API
+- [ical-merge-worker](https://github.com/adamwestland/ical-merge-worker) — merges iCal feeds into one subscribable endpoint
+- [ai-water-transparency](https://github.com/adamwestland/ai-water-transparency) — what AI companies disclose about water use
 
 ## Links
 
